@@ -19,3 +19,12 @@ I'll be 6 days a-waffling, a-waffling, a-waffling
 I've been 6 days a-waffling, a-waffling, a-waffling
 6 days a-writing, publishing my modules to Forge for Ryan C
 ```
+
+Todo
+------
+ * Review lyrics
+ * Add chord progression
+
+Contributing
+--------
+Pull requests accepted
